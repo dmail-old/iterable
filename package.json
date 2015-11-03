@@ -6,10 +6,10 @@
 
 	},
 	"devDependencies": {
-		"system-test": "git+https://github.com/dmail/system-test"
+
 	},
 	"scripts": {
-		"test": "system-test"
+
 	},
 	"repository": {
 	    "type": "git",
